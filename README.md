@@ -25,3 +25,13 @@
 ##### Add a Button to active Popup
 
     <button class='btn btn-info' data-jpop='open' >Activate</button>
+
+
+##### Options:
+
+| Option   |      Description      |  Default Value |
+|----------|:-------------:|------:|
+| Footer |  Removes or adds footer to Popup | true |
+| Maximize |  Maximizes the popup | false |
+| Title |Title of Popup   |   Simple Popup Plugin |
+| Content | Content of Popup  |    simple content |
