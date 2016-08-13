@@ -1,0 +1,23 @@
+html {
+	font-family: 'Roboto' , sans-serif;
+}
+body {
+	background-color: #eee;
+}
+.jumbotron {
+	margin-top: -20px;
+	background-color: white;
+	border-bottom: 1px solid #dadada;
+}
+.navbar {
+	background-color:  white;
+	border-bottom: 1px solid #eee;
+	border-top: none;
+}
+.navbar li a {
+	color: gray;
+}
+.navbar li:hover a{
+	background-color: orange;
+	color: white;
+}

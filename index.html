@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JPop</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="dist/css/custom.css">
+	<link rel="stylesheet" type="text/css" href="dist/css/plugin.css">
+</head>
+<body>
+	<div id="jPopup" ></div>
+	<div class="navbar" style="border-radius: 0px;" >
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand">JPop</a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="navbar-nav nav navbar-right"  >
+					<li><a href="#home">Home</a></li>
+					<li><a href="#howtouse">How To Use</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div id="home">
+		<div class="jumbotron">
+			<div class="container" align="center" >
+				<h1>Javascript Popup Plugin</h1>
+				<br>
+				<p>
+					V.1
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div id="howtouse">
+		<div class="text-center">
+			<h1  >How to Use? It's Easy</h1>
+		</div>
+		<div class="container" style="padding: 20px;" >
+			<br>
+			<br>
+			<div class="col-sm-10 col-sm-offset-1">
+				<h3>Include Files</h3>
+<!-- Code Starts -->
+<pre contenteditable="false">
+// Include Js Files
+
+&lt;link rel="stylesheet" type="text/css" href="dist/css/plugin.css"&gt;
+
+// Include Js Files
+
+&lt;script type="text/javascript" src="js/jquery/jquery.min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="dist/js/plugin.js" &gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+	var <span style="line-height: 18.5714px;">content </span>= "somecontent";
+	$.fn.jPopup({
+		content : content,
+		footer : true,
+		maximize : false 
+	});
+&lt;/script&gt;
+</pre>
+				<h3>Add a Button to active Popup</h3>
+<pre >&lt;button class='btn btn-info' data-jpop='open' &gt;Activate&lt;/button&gt;</pre>
+<button class='btn btn-info' data-jpop='open' >Activate</button>
+<!-- Code Ents -->
+			</div>
+		</div>
+	</div>
+
+
+
+	<!-- scripts -->
+	<script type="text/javascript" src="js/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="dist/js/plugin.js" ></script>
+	<!-- initialize the plugin -->
+		<script type="text/javascript">
+			var content = "somecontent";
+			$.fn.jPopup({
+				content : content,
+				footer : true,
+				maximize : false 
+			});
+		</script>
+	<!-- initialize the plugin -->
+	<!-- scripts -->
+</body>
+</html>
