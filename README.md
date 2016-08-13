@@ -37,4 +37,4 @@
 | Content | Content of Popup  |    simple content |
 
 
-<a href="https://rawgit.com/iksdatoo/jPop/master/index.html" >Demo</a>
+<a href="https://rawgit.com/iksdatoo/jPop/master/index.html" class='btn btn-info' >Demo</a>
