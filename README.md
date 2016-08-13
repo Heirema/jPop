@@ -3,6 +3,11 @@
 
 ###### Current Version **v.0.1**
 
+
+###### Total Visits
+
+<div align='center'><a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM5MTk1Mw==' border='0' alt='Free Hit Counter'></a></div>
+
 ###### Total Visits
 <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
