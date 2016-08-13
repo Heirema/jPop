@@ -7,7 +7,7 @@
 
 ##### Include Css Files
 
-    <link rel="stylesheet" type="text/css" href="dist/css/plugin.
+    <link rel="stylesheet" type="text/css" href="dist/css/plugin.css" />
 
 ##### Include Js Files
 
@@ -35,3 +35,6 @@
 | Maximize |  Maximizes the popup | false |
 | Title |Title of Popup   |   Simple Popup Plugin |
 | Content | Content of Popup  |    simple content |
+
+
+<a href="https://rawgit.com/iksdatoo/jPop/master/index.html" >Demo</a>
