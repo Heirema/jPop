@@ -4,9 +4,6 @@
 ###### Current Version **v.0.1**
 
 
-###### Total Visits
-
-<div align='left'><a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM5MTk1Mw==' border='0' alt='Free Hit Counter'></a></div>
 
 
 
@@ -43,3 +40,11 @@
 
 
 <a href="https://rawgit.com/iksdatoo/jPop/master/index.html" class='btn btn-info' >Demo</a>
+
+
+
+###### Total Visits
+
+<div align='left'><a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM5MTk1Mw==' border='0' alt='Free Hit Counter'></a></div>
+
+
